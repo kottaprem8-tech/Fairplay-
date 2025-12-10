@@ -5,8 +5,6 @@ https://fairplays.org/
 
 https://fairplays.org/fairplay-login/
 
-https://fairplays.org/fairplay-login/
-
 https://fairplays.org/fairplay-club/
 
 https://fairplays.org/fairplay-app/
